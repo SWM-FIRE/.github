@@ -22,6 +22,8 @@
 
 > **모도코**(모여서 도란도란 코딩) 프로젝트는 모각코를 하고 싶은 사람들이 모여 도란도란 코딩할 수 있게 해주는 플랫폼입니다. 개발자 친화적인 기능을 갖추고 모각코로 만들어진 인연이 이어질 수 있게 만들고자 합니다.
 
+> [중간평가 데모영상 보러가기](https://youtu.be/M0tEyRXDt94)
+
 ### 배포 주소
 
 > **정식 버전** : [https://modocode.com](https://modocode.com) <br /> **개발 버전** : [https://dev.modocode.com](https://dev.modocode.com)
