@@ -10,7 +10,7 @@
 |:--:|:--:|:---:|
 |<img width="160px" src="https://avatars.githubusercontent.com/u/66371206?v=4"> | <img width="160px" src="https://avatars.githubusercontent.com/u/38830620?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/64428916?v=4"> |
 |[@071yoon](https://github.com/071yoon)|[@IamGroooooot](https://github.com/IamGroooooot)|[@halang](https://github.com/haryung-lee)|
-| [![wakatime](https://wakatime.com/badge/user/4292264a-e9dd-4cc1-8ab6-1ada6ddb177a/project/79b7e168-b8e8-41f9-a790-c41967365f78.svg)](https://wakatime.com/badge/user/4292264a-e9dd-4cc1-8ab6-1ada6ddb177a/project/79b7e168-b8e8-41f9-a790-c41967365f78) ||[![wakatime](https://wakatime.com/badge/user/02d79381-005e-489b-b7f0-5fdf9dc2a088/project/d5dd888b-da07-4723-bc9d-f7c07c44307a.svg)](https://wakatime.com/badge/user/02d79381-005e-489b-b7f0-5fdf9dc2a088/project/d5dd888b-da07-4723-bc9d-f7c07c44307a)| 
+| [![wakatime](https://wakatime.com/badge/user/4292264a-e9dd-4cc1-8ab6-1ada6ddb177a/project/79b7e168-b8e8-41f9-a790-c41967365f78.svg)](https://wakatime.com/badge/user/4292264a-e9dd-4cc1-8ab6-1ada6ddb177a/project/79b7e168-b8e8-41f9-a790-c41967365f78) |[![wakatime](https://wakatime.com/badge/user/95486c3b-017e-41e8-8d9c-20de1b876bf5/project/51809c8d-a6d7-4661-8b9f-e2ce421b13b0.svg)](https://wakatime.com/badge/user/95486c3b-017e-41e8-8d9c-20de1b876bf5/project/51809c8d-a6d7-4661-8b9f-e2ce421b13b0)|[![wakatime](https://wakatime.com/badge/user/02d79381-005e-489b-b7f0-5fdf9dc2a088/project/d5dd888b-da07-4723-bc9d-f7c07c44307a.svg)](https://wakatime.com/badge/user/02d79381-005e-489b-b7f0-5fdf9dc2a088/project/d5dd888b-da07-4723-bc9d-f7c07c44307a)| 
 
 ## 모도코
 
@@ -30,12 +30,6 @@
 
 ### 관련 주소
 
-- [frontend-repo](https://github.com/SWM-FIRE/modoco-frontend)
+- [Frontend Repository](https://github.com/SWM-FIRE/modoco-frontend)
 
-- [backend-repo](https://github.com/SWM-FIRE/modoco-backend)
-
-- [document-repo](https://github.com/SWM-FIRE/modoco-document)
-
-- [wiki](https://swm-fire.atlassian.net/wiki/spaces/FI/overview)
-
-- [jira](https://swm-fire.atlassian.net/jira/software/projects/FIRE/boards/1/roadmap)
+- [Backend Repository](https://github.com/SWM-FIRE/modoco-backend)
