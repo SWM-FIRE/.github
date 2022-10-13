@@ -2,6 +2,9 @@
 
 <img width="100px" height="100px" src="https://user-images.githubusercontent.com/66371206/186636109-b35931c8-8050-4242-868f-ef4c656d2c3d.gif" />
 
+![fire 3 복사본](https://user-images.githubusercontent.com/64428916/195524465-c4faaa5e-845c-4598-9376-d27da4fce7d4.jpg)
+
+
 </h1>
 
 ## FIRE 소개 🔥
