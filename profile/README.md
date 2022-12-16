@@ -34,7 +34,7 @@
 
 ### 관련 주소
 
-- [Modoco Confluence Wiki](https://swm-fire.github.io/modoco-documentations/)  
+- [Modoco Confluence Wiki](https://swm-fire.github.io/modoco-documentation/)  
 > 회의록, 회고록 등 우리가 진행하면서 작성하고 성장하는 과정이 모두 적혀져 있습니다.
 
 - [Frontend Repository](https://github.com/SWM-FIRE/modoco-frontend)   
