@@ -30,10 +30,15 @@
 
 ### 배포 주소
 
-> **정식 버전** : [https://modocode.com](https://modocode.com) <br /> **개발 버전** : [https://dev.modocode.com](https://dev.modocode.com)
+> **정식 버전** : [https://modocode.com](https://modocode.com)  
 
 ### 관련 주소
 
-- [Frontend Repository](https://github.com/SWM-FIRE/modoco-frontend)
+- [Modoco Confluence Wiki](https://swm-fire.github.io/modoco-documentations/)  
+> 회의록, 회고록 등 우리가 진행하면서 작성하고 성장하는 과정이 모두 적혀져 있습니다.
 
-- [Backend Repository](https://github.com/SWM-FIRE/modoco-backend)
+- [Frontend Repository](https://github.com/SWM-FIRE/modoco-frontend)   
+> 모도코의 프론트엔드 저장소!
+
+- [Backend Repository](https://github.com/SWM-FIRE/modoco-backend)  
+> 모도코의 백엔드 저장소!
